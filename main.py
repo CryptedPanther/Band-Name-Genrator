@@ -1,0 +1,6 @@
+print('Welcome to "Band Name" Genrator!')
+Q1 = input('What is the name of the city u grew up in?: ')
+print(Q1)
+Q2 = input('What is the name of your pet? ')
+print(Q2)
+print('The name Of your band should be, ' + Q1 + ' ' + Q2 + '!!')
